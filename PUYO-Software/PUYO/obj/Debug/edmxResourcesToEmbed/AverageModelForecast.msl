@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PUYO_WAREHOUSEModel2StoreContainer" CdmEntityContainer="PUYO_WAREHOUSE_FORECAST_ENTITY">
+    <FunctionImportMapping FunctionImportName="GET_AVERAGE_SALES_FORECAST" FunctionName="PUYO_WAREHOUSEModel2.Store.GET_AVERAGE_SALES_FORECAST">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PUYO_WAREHOUSEModel2.GET_AVERAGE_SALES_FORECAST_Result">
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+          <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+          <ScalarProperty Name="Quantity_Sold" ColumnName="Quantity_Sold" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>

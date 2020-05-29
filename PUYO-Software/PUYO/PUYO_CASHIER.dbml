@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PUYO_CASHIER" Class="PUYODataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=KEVINABRAM6EED\SQLEXPRESS;Initial Catalog=PUYO_CASHIER;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="PUYO.Properties.Settings" SettingsPropertyName="PUYO_CASHIERConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Master_Transaction" Member="Master_Transactions">
+    <Type Name="Master_Transaction">
+      <Column Name="Master_Transaction_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Master_Transaction_Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="Master_Transaction_Transaction" Member="Transactions" ThisKey="Master_Transaction_ID" OtherKey="Master_Transaction_ID" Type="Transaction" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Product" Member="Products">
+    <Type Name="Product">
+      <Column Name="Product_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Product_Type_ID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Product_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Product_Price" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Product_Stock" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Barcode_Number" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Product_Transaction" Member="Transactions" ThisKey="Product_ID" OtherKey="Product_ID" Type="Transaction" />
+      <Association Name="Product_Type_Product" Member="Product_Type" ThisKey="Product_Type_ID" OtherKey="Product_Type_ID" Type="Product_Type" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Product_Type" Member="Product_Types">
+    <Type Name="Product_Type">
+      <Column Name="Product_Type_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Product_Type_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Product_Type_Product" Member="Products" ThisKey="Product_Type_ID" OtherKey="Product_Type_ID" Type="Product" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[Transaction]" Member="Transactions">
+    <Type Name="Transaction">
+      <Column Name="Transaction_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Master_Transaction_ID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Product_ID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Total_Price" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Master_Transaction_Transaction" Member="Master_Transaction" ThisKey="Master_Transaction_ID" OtherKey="Master_Transaction_ID" Type="Master_Transaction" IsForeignKey="true" />
+      <Association Name="Product_Transaction" Member="Product" ThisKey="Product_ID" OtherKey="Product_ID" Type="Product" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

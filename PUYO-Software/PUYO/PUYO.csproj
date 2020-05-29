@@ -1,0 +1,658 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E683E403-5ED6-4887-9971-236695629D81}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PUYO</RootNamespace>
+    <AssemblyName>PUYO</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>\\Mac\Home\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <WebPage>publish.htm</WebPage>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>9</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>PUYO.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>11E77710C4F590B003A899C4DB5731C983672745</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>PUYO_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>puyo_Fwg_2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADD_STOCK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADD_STOCK.Designer.cs">
+      <DependentUpon>ADD_STOCK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AverageSales.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AverageSales.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AverageSales.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AverageSales.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AverageSales.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AverageSales.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="AverageSalesForecastAll.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AverageSalesForecastAll.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AverageSalesForecastAll.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AverageSalesForecastAll.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AverageSalesForecastAll.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AverageSalesForecastAll.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="DATA_SUBMISSION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DATA_SUBMISSION.Designer.cs">
+      <DependentUpon>DATA_SUBMISSION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExpiredProducts.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExpiredProducts.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ExpiredProducts.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExpiredProducts.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ExpiredProducts.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExpiredProducts.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="ExpiredProductsAll.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExpiredProductsAll.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ExpiredProductsAll.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExpiredProductsAll.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ExpiredProductsAll.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ExpiredProductsAll.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="EXPIRY_FORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EXPIRY_FORM.Designer.cs">
+      <DependentUpon>EXPIRY_FORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GENERATE_REPORT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GENERATE_REPORT.Designer.cs">
+      <DependentUpon>GENERATE_REPORT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GET_AVERAGE_SALES_FORECAST_ALL_Result.cs">
+      <DependentUpon>AverageSalesForecastAll.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GET_AVERAGE_SALES_FORECAST_Result.cs">
+      <DependentUpon>AverageSales.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GET_EXPIRED_PRODUCTS_ALL_Result.cs">
+      <DependentUpon>ExpiredProductsAll.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GET_EXPIRED_PRODUCTS_Result.cs">
+      <DependentUpon>ExpiredProducts.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GET_PRODUCT_SALES_ALL_Result.cs">
+      <DependentUpon>SalesModelAll.tt</DependentUpon>
+    </Compile>
+    <Compile Include="GET_PRODUCT_SALES_Result.cs">
+      <DependentUpon>SalesModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="POS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="POS.Designer.cs">
+      <DependentUpon>POS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PUYO_CASHIER.cs">
+      <DependentUpon>PUYO_CASHIER.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="PUYO_CLASSES.cs" />
+    <Compile Include="PUYO_WAREHOUSE.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PUYO_WAREHOUSE.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="PUYO_CASHIER.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PUYO_CASHIER.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="PUYO_WAREHOUSEDataSet.cs">
+      <DependentUpon>PUYO_WAREHOUSEDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PUYO_WAREHOUSEDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PUYO_WAREHOUSEDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PUYO_WAREHOUSE_DATA_SET.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PUYO_WAREHOUSE_DATA_SET.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Restock.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Restock.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Restock.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Restock.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Restock.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Restock.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="RestockAll.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RestockAll.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RestockAll.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RestockAll.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RestockAll.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RestockAll.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="RESTOCKING_ALL_Result.cs">
+      <DependentUpon>RestockAll.tt</DependentUpon>
+    </Compile>
+    <Compile Include="RESTOCKING_Result.cs">
+      <DependentUpon>Restock.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SalesModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SalesModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SalesModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="SalesModelAll.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesModelAll.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SalesModelAll.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesModelAll.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SalesModelAll.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SalesModelAll.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="SEMI_AVERAGE_FORECAST.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SEMI_AVERAGE_FORECAST.Designer.cs">
+      <DependentUpon>SEMI_AVERAGE_FORECAST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="WAREHOUSE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WAREHOUSE.Designer.cs">
+      <DependentUpon>WAREHOUSE.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ADD_STOCK.resx">
+      <DependentUpon>ADD_STOCK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DATA_SUBMISSION.resx">
+      <DependentUpon>DATA_SUBMISSION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EXPIRY_FORM.resx">
+      <DependentUpon>EXPIRY_FORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GENERATE_REPORT.resx">
+      <DependentUpon>GENERATE_REPORT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="POS.resx">
+      <DependentUpon>POS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sales_Report.rdlc" />
+    <EmbeddedResource Include="SEMI_AVERAGE_FORECAST.resx">
+      <DependentUpon>SEMI_AVERAGE_FORECAST.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WAREHOUSE.resx">
+      <DependentUpon>WAREHOUSE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EntityDeploy Include="AverageSales.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>AverageSales.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="AverageSales.edmx.diagram">
+      <DependentUpon>AverageSales.edmx</DependentUpon>
+    </None>
+    <EntityDeploy Include="ExpiredProducts.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ExpiredProducts.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="AverageSalesForecastAll.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>AverageSalesForecastAll.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="AverageSalesForecastAll.edmx.diagram">
+      <DependentUpon>AverageSalesForecastAll.edmx</DependentUpon>
+    </None>
+    <None Include="ExpiredProducts.edmx.diagram">
+      <DependentUpon>ExpiredProducts.edmx</DependentUpon>
+    </None>
+    <EntityDeploy Include="ExpiredProductsAll.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ExpiredProductsAll.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="ExpiredProductsAll.edmx.diagram">
+      <DependentUpon>ExpiredProductsAll.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\DATA_SUBMISSION.datasource" />
+    <None Include="Properties\DataSources\GENERATE_REPORT.datasource" />
+    <None Include="Properties\DataSources\LOGIN.datasource" />
+    <None Include="Properties\DataSources\Master_Transaction.datasource" />
+    <None Include="Properties\DataSources\POS.datasource" />
+    <None Include="Properties\DataSources\POS_TRANSACTION.datasource" />
+    <None Include="Properties\DataSources\Product.datasource" />
+    <None Include="Properties\DataSources\Product_Type.datasource" />
+    <None Include="Properties\DataSources\Program.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSEDataSetTableAdapters.GET_PRODUCT_SALESTableAdapter.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSEDataSetTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSEDataSetTableAdapters.TableAdapterManager.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSE_DATA_SETTableAdapters.TableAdapterManager+UpdateOrderOption.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSE_DATA_SETTableAdapters.TableAdapterManager.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSE_DATA_SETTableAdapters.Warehouse_Master_TransactionTableAdapter.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSE_DATA_SETTableAdapters.Warehouse_ProductTableAdapter.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSE_DATA_SETTableAdapters.Warehouse_Product_TypeTableAdapter.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSE_DATA_SETTableAdapters.Warehouse_StoreTableAdapter.datasource" />
+    <None Include="Properties\DataSources\PUYO.PUYO_WAREHOUSE_DATA_SETTableAdapters.Warehouse_TransactionTableAdapter.datasource" />
+    <None Include="Properties\DataSources\PUYODataContext.datasource" />
+    <None Include="Properties\DataSources\PUYOWAREHOUSEDataContext.datasource" />
+    <None Include="Properties\DataSources\PUYO_FUNCTION.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSEDataSet.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSEDataSet.GET_PRODUCT_SALESDataTable.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSEDataSet.GET_PRODUCT_SALESRow.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSEDataSet.GET_PRODUCT_SALESRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSEDataSet.GET_PRODUCT_SALESRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_Master_TransactionDataTable.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_Master_TransactionRow.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_Master_TransactionRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_Master_TransactionRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_ProductDataTable.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_ProductRow.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_ProductRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_ProductRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_Product_TypeDataTable.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_Product_TypeRow.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_Product_TypeRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_Product_TypeRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_StoreDataTable.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_StoreRow.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_StoreRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_StoreRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_TransactionDataTable.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_TransactionRow.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_TransactionRowChangeEvent.datasource" />
+    <None Include="Properties\DataSources\PUYO_WAREHOUSE_DATA_SET.Warehouse_TransactionRowChangeEventHandler.datasource" />
+    <None Include="Properties\DataSources\Transaction.datasource" />
+    <None Include="Properties\DataSources\WAREHOUSE.datasource" />
+    <None Include="Properties\DataSources\Warehouse_Master_Transaction.datasource" />
+    <None Include="Properties\DataSources\Warehouse_Product.datasource" />
+    <None Include="Properties\DataSources\Warehouse_Product_Type.datasource" />
+    <None Include="Properties\DataSources\Warehouse_Store.datasource" />
+    <None Include="Properties\DataSources\Warehouse_Transaction.datasource" />
+    <None Include="PUYO_TemporaryKey.pfx" />
+    <None Include="PUYO_WAREHOUSE.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>PUYO_WAREHOUSE.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PUYO_WAREHOUSE.dbml.layout">
+      <DependentUpon>PUYO_WAREHOUSE.dbml</DependentUpon>
+    </None>
+    <None Include="PUYO_CASHIER.dbml.layout">
+      <DependentUpon>PUYO_CASHIER.dbml</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="PUYO_CASHIER.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>PUYO_CASHIER.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PUYO_WAREHOUSEDataSet.xsc">
+      <DependentUpon>PUYO_WAREHOUSEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PUYO_WAREHOUSEDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PUYO_WAREHOUSEDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PUYO_WAREHOUSEDataSet.xss">
+      <DependentUpon>PUYO_WAREHOUSEDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PUYO_WAREHOUSE_DATA_SET.xsc">
+      <DependentUpon>PUYO_WAREHOUSE_DATA_SET.xsd</DependentUpon>
+    </None>
+    <None Include="PUYO_WAREHOUSE_DATA_SET.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PUYO_WAREHOUSE_DATA_SET.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PUYO_WAREHOUSE_DATA_SET.xss">
+      <DependentUpon>PUYO_WAREHOUSE_DATA_SET.xsd</DependentUpon>
+    </None>
+    <EntityDeploy Include="SalesModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>SalesModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <EntityDeploy Include="Restock.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>Restock.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Restock.edmx.diagram">
+      <DependentUpon>Restock.edmx</DependentUpon>
+    </None>
+    <EntityDeploy Include="RestockAll.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>RestockAll.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="RestockAll.edmx.diagram">
+      <DependentUpon>RestockAll.edmx</DependentUpon>
+    </None>
+    <None Include="SalesModel.edmx.diagram">
+      <DependentUpon>SalesModel.edmx</DependentUpon>
+    </None>
+    <EntityDeploy Include="SalesModelAll.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>SalesModelAll.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="SalesModelAll.edmx.diagram">
+      <DependentUpon>SalesModelAll.edmx</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AverageSales.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>AverageSales.edmx</DependentUpon>
+      <LastGenOutput>AverageSales.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="AverageSales.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>AverageSales.edmx</DependentUpon>
+      <LastGenOutput>AverageSales.cs</LastGenOutput>
+    </Content>
+    <Content Include="AverageSalesForecastAll.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>AverageSalesForecastAll.edmx</DependentUpon>
+      <LastGenOutput>AverageSalesForecastAll.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="AverageSalesForecastAll.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>AverageSalesForecastAll.edmx</DependentUpon>
+      <LastGenOutput>AverageSalesForecastAll.cs</LastGenOutput>
+    </Content>
+    <Content Include="ExpiredProducts.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ExpiredProducts.edmx</DependentUpon>
+      <LastGenOutput>ExpiredProducts.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="ExpiredProducts.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ExpiredProducts.edmx</DependentUpon>
+      <LastGenOutput>ExpiredProducts.cs</LastGenOutput>
+    </Content>
+    <Content Include="ExpiredProductsAll.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ExpiredProductsAll.edmx</DependentUpon>
+      <LastGenOutput>ExpiredProductsAll.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="ExpiredProductsAll.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ExpiredProductsAll.edmx</DependentUpon>
+      <LastGenOutput>ExpiredProductsAll.cs</LastGenOutput>
+    </Content>
+    <Content Include="puyo_Fwg_2.ico" />
+    <Content Include="Restock.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Restock.edmx</DependentUpon>
+      <LastGenOutput>Restock.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Restock.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Restock.edmx</DependentUpon>
+      <LastGenOutput>Restock.cs</LastGenOutput>
+    </Content>
+    <Content Include="RestockAll.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>RestockAll.edmx</DependentUpon>
+      <LastGenOutput>RestockAll.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="RestockAll.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>RestockAll.edmx</DependentUpon>
+      <LastGenOutput>RestockAll.cs</LastGenOutput>
+    </Content>
+    <Content Include="SalesModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SalesModel.edmx</DependentUpon>
+      <LastGenOutput>SalesModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="SalesModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SalesModel.edmx</DependentUpon>
+      <LastGenOutput>SalesModel.cs</LastGenOutput>
+    </Content>
+    <Content Include="SalesModelAll.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SalesModelAll.edmx</DependentUpon>
+      <LastGenOutput>SalesModelAll.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="SalesModelAll.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>SalesModelAll.edmx</DependentUpon>
+      <LastGenOutput>SalesModelAll.cs</LastGenOutput>
+    </Content>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="PUYO">
+  <DataContextMoniker Name="/PUYODataContext" />
+  <nestedChildShapes>
+    <classShape Id="5c033598-455d-41c8-adba-478a8a1f8bfe" absoluteBounds="3.5, 4.25, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/PUYODataContext/Master_Transaction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="523b454f-d5ca-4217-9797-a188742b96a1" absoluteBounds="3.515, 4.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="86e83c13-5568-4a46-ad3d-82aeac886e6d" absoluteBounds="3.5, 0.875, 2, 1.9631982421874998">
+      <DataClassMoniker Name="/PUYODataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a9ab39ff-7259-48dd-8109-c0151f25e6e2" absoluteBounds="3.515, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dba8b33b-4d1e-4314-a59b-3fd35b0205e9" absoluteBounds="0.75, 1.25, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/PUYODataContext/Product_Type" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5c6783fa-fb73-4bcd-b236-37cc5bbbad79" absoluteBounds="0.765, 1.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6f34cf2f-1218-415e-9475-0dcaaa122ebd" absoluteBounds="6.25, 0.875, 2, 1.9631982421874998">
+      <DataClassMoniker Name="/PUYODataContext/Transaction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="785137d9-6a29-4789-8ef7-04d1647154a7" absoluteBounds="6.265, 1.335, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.84699625651042); (3.5 : 1.84699625651042)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/PUYODataContext/Product_Type/Product_Type_Product" />
+      <nodes>
+        <classShapeMoniker Id="dba8b33b-4d1e-4314-a59b-3fd35b0205e9" />
+        <classShapeMoniker Id="86e83c13-5568-4a46-ad3d-82aeac886e6d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.84699625651042); (7.25 : 4.84699625651042); (7.25 : 2.8381982421875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/PUYODataContext/Master_Transaction/Master_Transaction_Transaction" />
+      <nodes>
+        <classShapeMoniker Id="5c033598-455d-41c8-adba-478a8a1f8bfe" />
+        <classShapeMoniker Id="6f34cf2f-1218-415e-9475-0dcaaa122ebd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 1.85659912109375); (6.25 : 1.85659912109375)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/PUYODataContext/Product/Product_Transaction" />
+      <nodes>
+        <classShapeMoniker Id="86e83c13-5568-4a46-ad3d-82aeac886e6d" />
+        <classShapeMoniker Id="6f34cf2f-1218-415e-9475-0dcaaa122ebd" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

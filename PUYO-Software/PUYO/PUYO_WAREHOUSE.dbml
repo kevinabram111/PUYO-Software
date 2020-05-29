@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="PUYO_WAREHOUSE" Class="PUYOWAREHOUSEDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=KEVINABRAM6EED\SQLEXPRESS;Initial Catalog=PUYO_WAREHOUSE;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False" SettingsObjectName="PUYO.Properties.Settings" SettingsPropertyName="PUYO_WAREHOUSEConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Warehouse_Master_Transaction" Member="Warehouse_Master_Transactions">
+    <Type Name="Warehouse_Master_Transaction">
+      <Column Name="Master_Transaction_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Master_Transaction_Date" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="Store_ID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Warehouse_Master_Transaction_Warehouse_Transaction" Member="Warehouse_Transactions" ThisKey="Master_Transaction_ID" OtherKey="Master_Transaction_ID" Type="Warehouse_Transaction" />
+      <Association Name="Warehouse_Store_Warehouse_Master_Transaction" Member="Warehouse_Store" ThisKey="Store_ID" OtherKey="Store_ID" Type="Warehouse_Store" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Warehouse_Product" Member="Warehouse_Products">
+    <Type Name="Warehouse_Product">
+      <Column Name="Product_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Product_Type_ID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Product_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Product_Price" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Association Name="Warehouse_Product_Warehouse_Transaction" Member="Warehouse_Transactions" ThisKey="Product_ID" OtherKey="Product_ID" Type="Warehouse_Transaction" />
+      <Association Name="Warehouse_Product_Type_Warehouse_Product" Member="Warehouse_Product_Type" ThisKey="Product_Type_ID" OtherKey="Product_Type_ID" Type="Warehouse_Product_Type" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Warehouse_Product_Type" Member="Warehouse_Product_Types">
+    <Type Name="Warehouse_Product_Type">
+      <Column Name="Product_Type_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Product_Type_Name" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Warehouse_Product_Type_Warehouse_Product" Member="Warehouse_Products" ThisKey="Product_Type_ID" OtherKey="Product_Type_ID" Type="Warehouse_Product" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Warehouse_Store" Member="Warehouse_Stores">
+    <Type Name="Warehouse_Store">
+      <Column Name="Store_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Store_Location" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Warehouse_Store_Warehouse_Master_Transaction" Member="Warehouse_Master_Transactions" ThisKey="Store_ID" OtherKey="Store_ID" Type="Warehouse_Master_Transaction" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Warehouse_Transaction" Member="Warehouse_Transactions">
+    <Type Name="Warehouse_Transaction">
+      <Column Name="Transaction_ID" Type="System.String" DbType="VarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Product_ID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Master_Transaction_ID" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Total_Price" Type="System.Decimal" DbType="Decimal(18,0) NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="Warehouse_Master_Transaction_Warehouse_Transaction" Member="Warehouse_Master_Transaction" ThisKey="Master_Transaction_ID" OtherKey="Master_Transaction_ID" Type="Warehouse_Master_Transaction" IsForeignKey="true" />
+      <Association Name="Warehouse_Product_Warehouse_Transaction" Member="Warehouse_Product" ThisKey="Product_ID" OtherKey="Product_ID" Type="Warehouse_Product" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

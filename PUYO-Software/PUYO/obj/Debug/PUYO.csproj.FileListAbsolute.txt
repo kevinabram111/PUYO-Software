@@ -1,0 +1,451 @@
+c:\users\user\documents\visual studio 2015\Projects\PUYO\PUYO\bin\Debug\PUYO.exe.config
+c:\users\user\documents\visual studio 2015\Projects\PUYO\PUYO\bin\Debug\PUYO.exe
+c:\users\user\documents\visual studio 2015\Projects\PUYO\PUYO\bin\Debug\PUYO.pdb
+c:\users\user\documents\visual studio 2015\Projects\PUYO\PUYO\obj\Debug\PUYO.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\PUYO\PUYO\obj\Debug\PUYO.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\PUYO\PUYO\obj\Debug\PUYO.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\PUYO\PUYO\obj\Debug\PUYO.exe
+c:\users\user\documents\visual studio 2015\Projects\PUYO\PUYO\obj\Debug\PUYO.pdb
+C:\Users\USER\documents\visual studio 2015\Projects\PUYO\PUYO\obj\Debug\PUYO.POS.resources
+C:\Users\USER\documents\visual studio 2015\Projects\PUYO\PUYO\obj\Debug\PUYO.Data_Submission.resources
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.DATA_SUBMISSION.resources
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.GENERATE_REPORT.resources
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.LOGIN.resources
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.POS.resources
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.Properties.Resources.resources
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.WAREHOUSE.resources
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\Microsoft.ReportViewer.Common.dll
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.csproj.CopyComplete
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\PUYO-2\PUYO\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\PUYO-2\PUYO\obj\Debug\PUYO.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.ReportViewer.Common.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.ReportViewer.Design.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.SqlServer.Types.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\EnvDTE.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\stdole.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\EnvDTE80.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.Build.Tasks.Core.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\VSLangProj.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\VSLangProj80.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\System.Threading.Tasks.Dataflow.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.MSXML.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.Build.Utilities.Core.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.Build.Framework.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\VSLangProj2.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.ADD_STOCK.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.DATA_SUBMISSION.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.GENERATE_REPORT.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.LOGIN.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.POS.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.Properties.Resources.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.WAREHOUSE.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.csproj.CopyComplete
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2\PUYO\obj\Debug\PUYO.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.Common.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.Design.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.SqlServer.Types.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\EnvDTE.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\stdole.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\EnvDTE80.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.Build.Tasks.Core.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\VSLangProj.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\VSLangProj80.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\System.Threading.Tasks.Dataflow.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.MSXML.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.Build.Utilities.Core.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.Build.Framework.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\VSLangProj2.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.ADD_STOCK.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.DATA_SUBMISSION.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.GENERATE_REPORT.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.LOGIN.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.POS.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.Properties.Resources.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.WAREHOUSE.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.csproj.CopyComplete
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2\PUYO\obj\Debug\PUYO.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.Common.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.Design.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.SqlServer.Types.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\EnvDTE.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\stdole.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\EnvDTE80.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.Build.Tasks.Core.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\VSLangProj.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\VSLangProj80.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\System.Threading.Tasks.Dataflow.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.MSXML.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.Build.Utilities.Core.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.Build.Framework.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\VSLangProj2.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.ADD_STOCK.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.DATA_SUBMISSION.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.GENERATE_REPORT.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.LOGIN.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.POS.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.Properties.Resources.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.WAREHOUSE.resources
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.csproj.CopyComplete
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO 28 DECEMBER UPDATE 2 2 2\PUYO\obj\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.ADD_STOCK.resources
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.DATA_SUBMISSION.resources
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.EXPIRY_FORM.resources
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.GENERATE_REPORT.resources
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.LOGIN.resources
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.POS.resources
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.Properties.Resources.resources
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.WAREHOUSE.resources
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\PUYO.exe.config
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\PUYO.exe.manifest
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\PUYO.application
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\EntityFramework.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\EntityFramework.SqlServer.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.ReportViewer.Common.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.ReportViewer.Design.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.SqlServer.Types.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\EnvDTE.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\stdole.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\EnvDTE80.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.Build.Tasks.Core.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\VSLangProj.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\VSLangProj80.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\System.Threading.Tasks.Dataflow.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.MSXML.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.Build.Utilities.Core.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.Build.Framework.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\VSLangProj2.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\EntityFramework.xml
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\EntityFramework.SqlServer.xml
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.exe.manifest
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.application
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.csproj.CopyComplete
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.exe
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.pdb
+\\Mac\Home\Desktop\PUYO 24 JANUARY\PUYO\obj\Debug\PUYO.SEMI_AVERAGE_FORECAST.resources

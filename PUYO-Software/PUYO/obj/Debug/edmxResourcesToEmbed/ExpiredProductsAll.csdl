@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="PUYO_WAREHOUSEModel3" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="PUYO_WAREHOUSE_EXP1_ALL_ENTITY" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GET_EXPIRED_PRODUCTS_ALL" ReturnType="Collection(PUYO_WAREHOUSEModel3.GET_EXPIRED_PRODUCTS_ALL_Result)">
+      <Parameter Name="FromDate" Mode="In" Type="DateTime" />
+      <Parameter Name="ToDate" Mode="In" Type="DateTime" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="GET_EXPIRED_PRODUCTS_ALL_Result">
+    <Property Type="String" Name="Product_ID" Nullable="false" MaxLength="50" />
+    <Property Type="String" Name="Product_Name" Nullable="false" MaxLength="50" />
+    <Property Type="Int32" Name="Quantity_Expired" Nullable="true" />
+  </ComplexType>
+</Schema>

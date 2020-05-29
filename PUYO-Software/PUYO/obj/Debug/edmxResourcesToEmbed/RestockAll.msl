@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="PUYO_WAREHOUSEModel5StoreContainer" CdmEntityContainer="PUYO_WAREHOUSE_RESTOCK1_ALL_ENTITY">
+    <FunctionImportMapping FunctionImportName="RESTOCKING_ALL" FunctionName="PUYO_WAREHOUSEModel5.Store.RESTOCKING_ALL">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="PUYO_WAREHOUSEModel5.RESTOCKING_ALL_Result">
+          <ScalarProperty Name="Product_ID" ColumnName="Product_ID" />
+          <ScalarProperty Name="Product_Name" ColumnName="Product_Name" />
+          <ScalarProperty Name="Restock_Qty" ColumnName="Restock_Qty" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
